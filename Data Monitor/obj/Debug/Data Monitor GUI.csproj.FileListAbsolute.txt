@@ -1,0 +1,20 @@
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\Data Monitor GUI.exe.config
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\Data Monitor GUI.exe
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\Data Monitor GUI.pdb
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Base.dll
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.dll
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Base.pdb
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Base.xml
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.pdb
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.xml
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.Extensions.pdb
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Core.Extensions.xml
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Packets.pdb
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\bin\Debug\PcapDotNet.Packets.xml
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\obj\Debug\Data_Monitor_GUI.Main.resources
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\obj\Debug\Data_Monitor_GUI.Properties.Resources.resources
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\obj\Debug\Data Monitor GUI.csproj.GenerateResource.Cache
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\obj\Debug\Data Monitor GUI.exe
+C:\Users\Brandon\Desktop\Programs\Data Monitor GUI\Data Monitor GUI\obj\Debug\Data Monitor GUI.pdb
